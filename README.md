@@ -20,10 +20,10 @@ Should contain a <p> element that contains the current number of clicks against 
 Should contain a button that displays a “+” for incrementing the counter. On click, the count property on your state should update/increment by 1 and the <p> element referenced above should display the result.
 Should contain a button that displays a “-“ for decrementing the counter. On click, the count property on your state should update/decrement by 1 and the <p> element referenced above should display the result.
 
-Estimate of time needed to complete: 6 hours
+Estimate of time needed to complete: 4 hours
 
-Start time: 3pm
+Start time: 330pm
 
-Finish time: _____
+Finish time: 4:30
 
-Actual time needed to complete: _____
+Actual time needed to complete: 1 hour. 
