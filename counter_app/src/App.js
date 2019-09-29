@@ -41,7 +41,7 @@ class Counter extends Component {
 function App() {
   return <Fragment>
       <Header />
-\      <Counter />
+      <Counter />
       </Fragment>
 }
 
